@@ -10,7 +10,7 @@
 - Интеграция с Allure TestOps
 - Интеграция с Atlassian Jira
 - Уведомление в Telegram о результатах прогона тестов
-- Видео пример прохождения тестов
+- Видеопример прохождения тестов
 
 
 <a id="tools"></a>
@@ -23,14 +23,15 @@
 <a id="cases"></a>
 ## :ballot_box_with_check: Реализованные проверки:
 
-- Параметризованный тест смены языка на русский, английский
-- Авторизация через номер телефона и номер счета
-- Заключение пари при недостаточном балансе для ставок Simple, System, Exspress
-- Cодержания заголовка главной страницы
-- Наличия ссылки на телеграмм бот
+- Параметризованный тест смены категорий клиентов в хэдере
+- Переход по кнопке "Войти" на влкадку авторизации "Интернет-банк"
+- Заполнение формы обратной связи и переход на шаг2
+- Проверка валидации полей на форме обратной связи
+- Скачивание pdf-файла из архива документов банка и проверка на соответствие содержимого документа
+- Переход на главную страницу сайта по кнопке Logo
 
-## <img alt="Jenkins" height="25" src="images/logo/Jenkins.svg" width="25"/> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/Students/job/18-lom14-betcity/)
-
+## <img alt="Jenkins" height="25" src="images/logo/Jenkins.svg" width="25"/> Сборка в [Jenkins]
+**(https://jenkins.autotests.cloud/job/41-MashaSelyanko_proect1/)**
 
 <p align="center">  
 <img src="images/screen/jenkins.png" alt="Jenkins" width="950"/></a>  
@@ -40,7 +41,7 @@
 ## :ballot_box_with_check: Параметры сборки в Jenkins:
 
 - browser (браузер, по умолчанию chrome)
-- browserVersion (версия браузера, по умолчанию 100.0)
+- browserVersion (версия браузера, по умолчанию 128.0)
 - browserSize (размер окна браузера, по умолчанию 1920x1080)
 
 
@@ -48,7 +49,7 @@
 
 Удаленный запуск с использованием Jenkins+Selinoid(требуется логин и пароль):
 ```bash  
-gradle clean test -Denv=remote
+java "-DconfigFile=notifications/config.json" -jar ./notifications/allure-notifications-4.6.1.jar
 ```
 
 ## <img alt="Allure" height="25" src="images/logo/Allure.svg" width="25"/></a>  <a name="Allure"></a>Allure Report	</a>
