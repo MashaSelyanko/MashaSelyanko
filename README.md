@@ -99,13 +99,5 @@ ____
 ## <img alt="Allure" height="25" src="logo/Telegram.svg" width="25"/></a> Уведомление в Telegram при помощи бота
 ____
 <p align="center">  
-<img title="Allure Overview Dashboard" src="screen/Телеграм.png" width="550">  
+<img title="Allure Overview Dashboard" src="screen/телеграм.png" width="550">  
 </p>
-
-____
-## <img alt="Selenoid" height="25" src="logo/Selenoid.svg" width="25"/></a> Примеры видео выполнения тестов на Selenoid
-____
-<p align="center">
-<img title="Selenoid Video" src="images/screen/gif/selenideVideo (2).gif" width="550" height="350"  alt="video">   
-</p>
-
