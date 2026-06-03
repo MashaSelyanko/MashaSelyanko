@@ -30,7 +30,7 @@
 - Скачивание pdf-файла из архива документов банка и проверка на соответствие содержимого документа
 - Переход на главную страницу сайта по кнопке Logo
 
-## <img alt="Jenkins" height="25" src="images/logo/Jenkins.svg" width="25"/> Сборка в [Jenkins]
+## <img alt="Jenkins" height="25" src="logo/Jenkins.svg" width="25"/> Сборка в [Jenkins]
 **(https://jenkins.autotests.cloud/job/41-MashaSelyanko_proect1/)**
 
 <p align="center">  
@@ -52,7 +52,7 @@
 java "-DconfigFile=notifications/config.json" -jar ./notifications/allure-notifications-4.6.1.jar
 ```
 
-## <img alt="Allure" height="25" src="images/logo/Allure.svg" width="25"/></a>  <a name="Allure"></a>Allure Report	</a>
+## <img alt="Allure" height="25" src="logo/Allure.svg" width="25"/></a>  <a name="Allure"></a>Allure Report	</a>
 
 
 ## Основная страница отчёта
