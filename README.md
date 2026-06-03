@@ -65,11 +65,10 @@ java "-DconfigFile=notifications/config.json" -jar ./notifications/allure-notifi
 
 <p align="center">  
 <img title="Allure Tests" src="screen/Allure report - Suites2.png" width="850">  
-<img title="Allure Graphics" src="screen/AllureOps - тест - кейсы.png" width="850">  
 </p>
 
 
-## <img alt="Allure_TO" height="25" src="images/logo/Allure_TO.svg" width="25"/> </a>Интеграция с Allure TestOps</a>
+## <img alt="Allure_TO" height="25" src="logo/Allure_TO.svg" width="25"/> </a>Интеграция с Allure TestOps</a>
 
 
 ## Allure TestOps Dashboard
@@ -81,9 +80,9 @@ java "-DconfigFile=notifications/config.json" -jar ./notifications/allure-notifi
 ## Авто и Ручные тест-кейсы
 
 <p align="center">  
-<img title="Allure Tests" src="images/screen/ATO3.png" width="850">  
-<img title="Allure Tests" src="images/screen/ATO6.png" width="850">  
+<img title="Allure Graphics" src="screen/AllureOps - тест - кейсы.png" width="850">  
 
+<img title="Allure Tests" src="images/screen/ATO6.png" width="850">  
 </p>
 
 ## <img alt="Allure" height="25" src="images/logo/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-689">Jira</a>
