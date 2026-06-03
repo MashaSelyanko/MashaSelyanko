@@ -34,7 +34,7 @@
 **(https://jenkins.autotests.cloud/job/41-MashaSelyanko_proect1/)**
 
 <p align="center">  
-<img src="screen/Allure report-Status.png" alt="Jenkins" width="950"/></a>  
+<img src="screen/Allure report - Status.png" alt="Jenkins" width="950"/></a>  
 </p>
 
 
