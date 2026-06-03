@@ -61,45 +61,49 @@ java "-DconfigFile=notifications/config.json" -jar ./notifications/allure-notifi
 <img src="screen/Allure report.png" src="screen/Allure report.png" width="850">  
 </p>  
 
-## Тест-кейсы
+## Сьюты
 
 <p align="center">  
 <img title="Allure Tests" src="screen/Allure report - Suites2.png" width="850">  
+</p>
+
+## Graphs
+
+<p align="center">  
+<img title="Allure Tests" src="screen/Allure report - Graphs.png" width="850">  
 </p>
 
 
 ## <img alt="Allure_TO" height="25" src="logo/Allure_TO.svg" width="25"/> </a>Интеграция с Allure TestOps</a>
 
 
-## Allure TestOps Dashboard
+## Allure TestOps Запуски
 
 <p align="center">  
-<img title="Allure TestOps Dashboard" src="images/screen/ATO5.png" width="850">  
+<img title="Allure TestOps Dashboard" src="screen/AllureOps - тест - Запуски.png" width="850">  
 </p>  
 
 ## Авто и Ручные тест-кейсы
 
 <p align="center">  
-<img title="Allure Graphics" src="screen/AllureOps - тест - кейсы.png" width="850">  
-
-<img title="Allure Tests" src="images/screen/ATO6.png" width="850">  
+<img title="Allure Graphics" src="screen/AllureOps - тест - кейсы.png" width="850">   
 </p>
 
-## <img alt="Allure" height="25" src="images/logo/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-689">Jira</a>
+## <img alt="Allure" height="25" src="logo/Jira.svg" width="25"/></a> Интеграция с <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-689">Jira</a>
 
 <p align="center">  
-<img title="Jira" src="images/screen/jira.png" width="">  
+<img title="Jira" src="screen/Jira.png" width="">  
 </p>
 
 ____
-## <img alt="Allure" height="25" src="images/logo/Telegram.svg" width="25"/></a> Уведомление в Telegram при помощи бота
+## <img alt="Allure" height="25" src="logo/Telegram.svg" width="25"/></a> Уведомление в Telegram при помощи бота
 ____
 <p align="center">  
-<img title="Allure Overview Dashboard" src="images/screen/tg.png" width="550">  
+<img title="Allure Overview Dashboard" src="screen/Телеграм.png" width="550">  
 </p>
 
 ____
-## <img alt="Selenoid" height="25" src="images/logo/Selenoid.svg" width="25"/></a> Примеры видео выполнения тестов на Selenoid
+## <img alt="Selenoid" height="25" src="logo/Selenoid.svg" width="25"/></a> Примеры видео выполнения тестов на Selenoid
 ____
 <p align="center">
 <img title="Selenoid Video" src="images/screen/gif/selenideVideo (2).gif" width="550" height="350"  alt="video">   
