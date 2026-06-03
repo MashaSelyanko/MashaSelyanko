@@ -58,7 +58,7 @@ java "-DconfigFile=notifications/config.json" -jar ./notifications/allure-notifi
 ## Основная страница отчёта
 
 <p align="center">  
-<img src="screen/Allure report.png" src="images/screen/AR1.png" width="850">  
+<img src="screen/Allure report.png" src="screen/Allure report.png" width="850">  
 </p>  
 
 ## Тест-кейсы
