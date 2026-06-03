@@ -64,8 +64,8 @@ java "-DconfigFile=notifications/config.json" -jar ./notifications/allure-notifi
 ## Тест-кейсы
 
 <p align="center">  
-<img title="Allure Tests" src="images/screen/AR2.png" width="850">  
-<img title="Allure Graphics" src="images/screen/AR3.png" width="850">  
+<img title="Allure Tests" src="screen/Allure report - Suites2.png" width="850">  
+<img title="Allure Graphics" src="screen/AllureOps - тест - кейсы.png" width="850">  
 </p>
 
 
