@@ -34,7 +34,7 @@
 **(https://jenkins.autotests.cloud/job/41-MashaSelyanko_proect1/)**
 
 <p align="center">  
-<img src="screen/Allure report.png" alt="Jenkins" width="950"/></a>  
+<img src="screen/Allure report-Status.png" alt="Jenkins" width="950"/></a>  
 </p>
 
 
@@ -58,7 +58,7 @@ java "-DconfigFile=notifications/config.json" -jar ./notifications/allure-notifi
 ## Основная страница отчёта
 
 <p align="center">  
-<img title="Allure Overview Dashboard" src="images/screen/AR1.png" width="850">  
+<img src="screen/Allure report.png" src="images/screen/AR1.png" width="850">  
 </p>  
 
 ## Тест-кейсы
