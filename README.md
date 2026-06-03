@@ -1,5 +1,5 @@
 
-<h1 >Демопроект по автоматизации тестирования сайта <a href="https://www.bspb.ru/ "> ПАО «Банк «Санкт-Петербург»</a></h1>
+<div align="center"><h1 >Демопроект по автоматизации тестирования сайта <br> <a href="https://www.bspb.ru/ "> ПАО «Банк «Санкт-Петербург»</a></h1></div>div>
 
 ## ☑️ Содержание:
 
@@ -10,7 +10,6 @@
 - Интеграция с Allure TestOps
 - Интеграция с Atlassian Jira
 - Уведомление в Telegram о результатах прогона тестов
-- Видеопример прохождения тестов
 
 
 <a id="tools"></a>
@@ -30,12 +29,14 @@
 - Скачивание pdf-файла из архива документов банка и проверка на соответствие содержимого документа
 - Переход на главную страницу сайта по кнопке Logo
 
+
 ## <img alt="Jenkins" height="25" src="logo/Jenkins.svg" width="25"/> Сборка в [Jenkins]
 **(https://jenkins.autotests.cloud/job/41-MashaSelyanko_proect1/)**
 
 <p align="center">  
 <img src="screen/Allure report - Status.png" alt="Jenkins" width="950"/></a>  
 </p>
+
 
 
 ## :ballot_box_with_check: Параметры сборки в Jenkins:
@@ -51,6 +52,7 @@
 ```bash  
 java "-DconfigFile=notifications/config.json" -jar ./notifications/allure-notifications-4.6.1.jar
 ```
+
 
 ## <img alt="Allure" height="25" src="logo/Allure.svg" width="25"/></a>  <a name="Allure"></a>Allure Report	</a>
 
